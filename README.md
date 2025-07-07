@@ -260,4 +260,3 @@ The application includes Spring Boot Actuator for monitoring:
 
 **Darwin Ruiz**
 - GitHub: [@DarwinRuiz](https://github.com/DarwinRuiz)
-- Email: your.email@example.com
