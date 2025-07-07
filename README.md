@@ -259,5 +259,5 @@ The application includes Spring Boot Actuator for monitoring:
 ## 👨‍💻 Author
 
 **Darwin Ruiz**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@DarwinRuiz](https://github.com/DarwinRuiz)
 - Email: your.email@example.com
