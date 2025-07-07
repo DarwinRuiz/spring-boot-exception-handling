@@ -1,4 +1,4 @@
-# Spring Boot Exception Handling Demo
+# Spring Boot Exception Handling
 
 A comprehensive demonstration of global exception handling and error management in Spring Boot applications using `@RestControllerAdvice` and custom exception classes.
 
@@ -82,7 +82,7 @@ src/main/java/com/darwinruiz/springboot/errors/springbooterrors/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/DarwinRuiz/spring-boot-exception-handling.git
-   cd spring-boot-exception-handling-demo
+   cd spring-boot-exception-handling
    ```
 
 2. **Build the project**
